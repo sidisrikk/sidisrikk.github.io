@@ -1,1 +1,1 @@
-# Visit my page [here].(https://sidisrikk.github.io)
+# Visit my page [here](https://sidisrikk.github.io).
